@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+}
+.card{
+    margin: 0 auto;
+    max-width: 350px;
+    text-align: center;
+    margin-top: 10px;
+    box-shadow: 0 4px 8px 0 rgb(176, 158, 158);
+    
+    font-size: 0;
+
+    
+}
+.card:hover{
+    box-shadow: 0 16px 32px 0  rgb(176, 158, 158);
+}
+.card_head #result{
+    height: 100px;
+    width: 330px;
+    font-size: 30px;
+    text-align: right;
+    letter-spacing: 2px;
+    padding: 0 8px;
+}
+.cardbody{
+    font-size: 0;
+  
+}
+.btn{
+    height: 55px;
+    width: 87.5px;
+   font-weight: bold;
+   background-color: rgb(149, 133, 133);
+   color: white;
+   font-size: 16px;
+   
+}
+.btn-style{
+    background-color: rgb(206, 170, 104) ;
+}
+.btn-st{
+    background-color: rgb(183, 182, 147) ;
+}
+.btn:hover{
+    background-color: rgb(94, 199, 211);
+}
